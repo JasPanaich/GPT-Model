@@ -1,3 +1,4 @@
+# Telling model how 'wrong' it was
 import numpy as np
 from numpy.typing import NDArray
 
