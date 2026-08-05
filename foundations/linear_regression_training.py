@@ -1,3 +1,4 @@
+# Training computes partial derivative of loss w/ respect to weight
 import numpy as np
 from numpy.typing import NDArray
 
