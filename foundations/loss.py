@@ -1,4 +1,4 @@
-# Telling model how 'wrong' it was
+# Telling model how 'wrong' it was by comparing predicted distribution w/ right answer
 import numpy as np
 from numpy.typing import NDArray
 
