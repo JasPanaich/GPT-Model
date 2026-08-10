@@ -1,4 +1,4 @@
-# Converts vectror of raw scores into probability distribution 
+# Converts vector of raw scores into probability distribution 
 import numpy as np   
 from numpy.typing import NDArray
 
